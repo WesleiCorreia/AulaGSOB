@@ -1,2 +1,2 @@
-//importar o input de dados
+//importar o Input de dados
 import static javax.swing.JOptionPane.showInputDialog;
